@@ -1,0 +1,5 @@
+sensor001.dat output001.dat
+sensor002.dat output001.dat
+sensor001.dat output002.dat
+sensor003.dat output003.dat
+sensor004.dat output003.dat
